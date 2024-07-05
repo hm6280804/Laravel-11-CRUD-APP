@@ -16,6 +16,20 @@ UI Design: Explore basic frontend design using CSS and Bootstrap within a Larave
 Usage
 
 1.Installation: Clone the repository and install dependencies using Composer.
-    git clone https://github.com/your/repository.git
+    git clone https://github.com/your/repository.git](https://github.com/hm6280804/Laravel-11-CRUD-APP.git
     cd repository
     composer install
+2.Setup Environment: Configure your .env file for database connection and other settings.
+
+3.Run Migration: Execute database migrations to set up the database schema.
+    php artisan migrate
+4.Serve Application: Start the Laravel development server.
+    php artisan serve
+5.Access Application: Open your browser and navigate to http://localhost:8000 to view the application.
+
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
